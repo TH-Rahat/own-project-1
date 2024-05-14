@@ -457,9 +457,9 @@ header{
     }
     .policy{
         & .features{
-            left: 35%;
-            margin-top: 30px;
-            transform: translate(0,-35%);
+            left: 33%;
+            margin-top: 33px;
+            transform: translate(0,-33%);
             padding: 6px 12px;
             font-size: 2rem;
     }
